@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContactInfo>
+  <info toll_free_phone="(800)471-9933"
+        direct_phone="(210)361-9910"
+        fax="(210)361-9911"
+        email="support@rapidbillpay.com"
+        address_line1="2018 I-10 West"
+        address_line2=""
+        city="San Antonio"
+        state="TX"
+        zip="78216"/>
+</ContactInfo>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>1.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>2.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>3.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>4.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>5.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>6.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>7.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>8.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>9.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+  <Ad>
+    <ImageUrl>10.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>bill pay ad    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Bill</Keyword>
+    <Height>125</Height>
+    <Width>125</Width>
+  </Ad>
+
+  
+</Advertisements>

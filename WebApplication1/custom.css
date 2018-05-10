@@ -1,0 +1,217 @@
+﻿
+/********************************global***********************************************/
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    color: #4f4848;
+
+}
+
+
+
+
+a, h1, h2, h3 {
+    color: rgba(29, 28, 28, 0.79);
+}
+
+
+    a:hover {
+        color: black;
+    }
+
+h3 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.firstsent {
+    color: darkblue;
+}
+
+input, select, option {
+    background: rgba(249, 250, 253, 0.67);
+    border: transparent;
+    height: 30px;
+}
+
+    input[type="checkbox"] {
+        width: 50px;
+        height: 20px;
+    }
+
+
+
+button, .submit {
+    background-color: rgba(192, 198, 198, 0.85);
+    font-size: 15px;
+    border: 1px solid rgba(83, 85, 85, 0.21);
+    ;
+}
+
+h3 .required{
+    color:red;
+}
+
+/**********************navbar*******************************/
+.container {
+    background-image: url("background.jpg");
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background-color: rgba(170, 170, 170, 0.69);
+    height: 60px;
+    overflow: hidden;
+}
+
+
+
+
+.nav-right button {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.nav-right {
+    width: 30%;
+    float: right;
+    height: inherit;
+}
+
+.nav-left {
+    width: 70%;
+    float: left;
+    height: inherit;
+}
+
+    .nav-left span {
+        font-size: 40px;
+    }
+
+
+
+.logo {
+    height: 100%;
+    font-style: italic;
+    font-weight: 600;
+    width: 30%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-repeat: no-repeat;
+    margin-left: 20px;
+    color: rgba(4, 4, 4, 0.78);
+}
+
+a.logo:hover {
+    color: rgba(4, 4, 4, 0.78)
+}
+
+
+.nav-left a {
+    line-height: 60px;
+    float: left;
+    display: block;
+    font-size: 22px;
+    text-align: center;
+    height: 100%;
+    margin-right: 20px;
+}
+
+.nav-right button {
+    float: right;
+    display: block;
+    text-align: center;
+    font-size: 17px;
+    height: 30px;
+    margin-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+/*************************main container***************************************/
+
+
+
+
+.form-container {
+    position: absolute;
+    height: auto;
+    width: auto;
+    padding: 0px;
+    display: inline-block;
+    top: 25%;
+    right: 0%;
+    overflow: hidden;
+    background-color: rgba(170, 170, 170, 0.69);
+}
+
+
+
+.text-block {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    font-size: 1.6em;
+}
+
+
+input {
+    width: 100%;
+    margin: 10px 0px;
+}
+
+.form-footer {
+    width: 100%;
+    float: left;
+    padding: 10px 5px;
+}
+
+.footer-left {
+    float: left;
+    width: 50%;
+}
+
+.footer-right {
+    padding: 0px;
+    margin: 0px;
+    float: right;
+    width: 40%;
+    height: 50px;
+}
+
+.submit {
+    height: 100%;
+    width: 80%;
+    margin: 0px;
+}
+/*************************/
+
+.feedbackform input {
+    display: inline-block;
+    width: 33%;
+}
+
+.ques {
+    color: red;
+    font-size: 23px;
+}
+
+.ans {
+    color: #00114c;
+    font-size: 20px;
+}
+
+.contactinfo {
+    font-size: 20px;
+    width: 60%;
+    margin: 0 auto;
+}
+
